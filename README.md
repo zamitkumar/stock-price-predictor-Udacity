@@ -9,7 +9,7 @@ The Stock Price Predictor is a machine learning project that predicts the Adjust
 - Fetches historical stock data using Yahoo Finance API.
 - Predicts future Adjusted Close prices with a Random Forest Regressor.
 - Visualizes actual vs. predicted prices and feature importance.
-- Offers insights into diversification and minimum stock price estimates.
+- Offers insights into diversification.
 
 ## Getting Started
 ### Prerequisites
