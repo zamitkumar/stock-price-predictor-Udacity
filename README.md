@@ -1,8 +1,12 @@
 
-This Capstone Project is focused on building a Stock Price Predictor using machine learning techniques, particularly aimed at predicting stock prices based on historical data and improving investment decisions. Here's a breakdown and analysis of the key aspects of the project:
+This Capstone Project is focused on building a Stock Price Predictor using machine learning techniques, particularly aimed at predicting stock prices based on historical data and improving investment decisions.
+
+Here's a breakdown and analysis of the key aspects of the project:
 
 ****Project Overview****
-The goal is to create a tool that can predict stock prices, specifically the Close price, using historical trading data. The model leverages financial metrics like:
+The goal is to create a tool that can predict stock prices, specifically the Close price, using historical trading data. 
+
+The model leverages financial metrics like:
 
 Opening prices
 Highest trading prices
@@ -17,7 +21,6 @@ Analyze Stock Correlations: Identify correlations between different stocks and h
 Data Description
 The project uses historical stock market data, which includes:
 
-Date
 Open: Stock's opening price.
 High: Highest price of the stock for the day.
 Low: Lowest price of the stock for the day.
@@ -38,7 +41,7 @@ Data Preprocessing: Clean the data by handling missing values, normalizing featu
 Linear Regression: For a baseline model.
 Random Forests: To capture non-linear relationships.
 
-Model Evaluation: Split data into training, validation, and testing sets to evaluate the models using various performance metrics.
+**Model Evaluation:** Split data into training, validation, and testing sets to evaluate the models using various performance metrics.
 Expected Outcomes
 A robust predictive model to forecast stock prices (Close price).
 An interactive interface for users to easily access stock predictions.
@@ -53,7 +56,7 @@ Stock Split Integration and News Sentiment Analysis.
 Extend to handle multiple stocks simultaneously for broader market analysis.
 Setup and Tools
 Python is the main programming language.
-Libraries:
+**Libraries:**
 NumPy, SciPy for numerical and scientific computations.
 Pandas for data manipulation.
 yfinance for fetching stock data.
@@ -68,7 +71,8 @@ Plotting the stock’s historical closing prices.
 Analyzing daily trading volume.
 Creating Moving Averages (10, 20, 50 days) to visualize trends.
 Calculating volatility using rolling standard deviations over a 10-day window.
-Model Selection and Evaluation
+
+**Model Selection and Evaluation**
 Random Forest Regressor: Used as the initial model to predict stock prices. You plan to fine-tune it using grid search to optimize hyperparameters.
 The performance of the model will be evaluated using:
 RMSE: Measures how far predictions are from the actual values.
