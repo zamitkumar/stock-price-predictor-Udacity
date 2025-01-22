@@ -90,6 +90,7 @@ Financial News Sentiment Analysis: Incorporate sentiment from financial news to 
 Multi-stock Analysis: Expand the model to analyze and predict for multiple stocks at once.
 
 For More details , I have published blog :https://medium.com/@amit.saptech/developing-a-stock-price-predictor-enhancing-investment-strategies-with-machine-learning-7bcb5aeb5a85
+
 Licensing, Authors, and Acknowledgements
 
 This application was developed as part of the Udacity Data Scientist Nanodegree program.
