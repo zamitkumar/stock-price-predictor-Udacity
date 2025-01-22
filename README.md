@@ -1,6 +1,7 @@
 Title **Stock Price Prediction Capstone Project for Datascience Nanodegree(Udacity) **
 
-Description: This Capstone Project is focused on developing a Stock Price Predictor using machine learning techniques. The main goal is to predict stock prices, specifically the Close price, based on historical trading data, ultimately helping investors make more informed decisions.
+**Description: **
+This Capstone Project is focused on developing a Stock Price Predictor using machine learning techniques. The main goal is to predict stock prices, specifically the Close price, based on historical trading data, ultimately helping investors make more informed decisions.
 
 Project Overview
 The objective is to create a tool that accurately predicts stock prices by analyzing past trading data. The model will use key financial metrics such as:
@@ -88,6 +89,7 @@ Portfolio Simulation: Enable users to evaluate strategies by testing them agains
 Financial News Sentiment Analysis: Incorporate sentiment from financial news to improve predictions.
 Multi-stock Analysis: Expand the model to analyze and predict for multiple stocks at once.
 
+For More details , I have published blog :https://medium.com/@amit.saptech/developing-a-stock-price-predictor-enhancing-investment-strategies-with-machine-learning-7bcb5aeb5a85
 Licensing, Authors, and Acknowledgements
 
 This application was developed as part of the Udacity Data Scientist Nanodegree program.
